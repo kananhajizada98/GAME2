@@ -2,7 +2,7 @@ let A = [];
 let B = [];
 let C = [];
 let n = 6;
-//let BoomCount = Math.floor((n * n) * 0.2);
+
 img = "";
 let point = 0;
 let timer;
